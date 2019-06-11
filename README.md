@@ -1,6 +1,3 @@
-# hello-world
-テスト用プロジェクト
-
 ## Project setup
 ```
 npm install
